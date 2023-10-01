@@ -1,0 +1,26 @@
+{
+  "name": "blue",
+  "displayName": "blue",
+  "description": "blue",
+  "version": "0.0.1",
+  "publisher": "jefffree22",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "repository": {
+    "type": "git",
+    "directory": ""
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blue-color-theme.json"
+      }
+    ]
+  }
+}
